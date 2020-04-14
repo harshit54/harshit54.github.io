@@ -1,0 +1,53 @@
+h1
+{
+    font-size: 72px;
+    margin: 0px;
+    padding:0px;
+}
+.heading
+{
+    text-align: center;
+}
+.col
+{
+    display: inline-block;
+    border: solid 2px rgb(14, 71, 73);
+    margin: 5px;
+    margin-top: 0px;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    top: 0px;
+}
+.col:hover
+{
+    background-color: rgb(14, 71, 73);
+}
+img
+{
+    height: auto;
+    max-width: 50%;
+    border-radius: 250px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
+img:hover
+{
+    background-color: rgb(56, 145, 166);
+    filter: blur(1px);
+}
+body
+{
+    font-family: cursive;
+    background-color: rgb(0, 38, 38);
+    color: rgb(149, 198, 35);
+}
+a   
+{
+    color: rgb(239, 231, 218);
+}
+a:hover
+{
+    color:rgb(229, 88, 18);
+}
